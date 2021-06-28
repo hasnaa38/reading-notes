@@ -46,7 +46,7 @@ Follow these steps to create and share GitHub page for a document that looks lik
 7. Set the source of the page and save it. 
 8. Copy the page link and share it! 
 
-_*Note*_ using this link will open the default page, which is usually the README.md file. To share the link of other files add its name at the end of the link withould the extension part.
+_**Note**_ using this link will open the default page, which is usually the README.md file. To share the link of another file, add its name at the end of the link withould the extension part.
 
 
 #### *The third list:* 
