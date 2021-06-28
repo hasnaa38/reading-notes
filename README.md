@@ -1,4 +1,4 @@
-# eading-notes
+# reading-notes
 This repository is created for 102d36 - Lab 01b. In this file, I will use the markdown language to summarize [this blog article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) that discusses the concept of growth mindset.
 
 ### Two contradictory mindsets 
