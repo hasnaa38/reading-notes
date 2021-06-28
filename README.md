@@ -1,5 +1,10 @@
-# Growth mindset summary
-This repository is created for 102d36 - Lab 01b. In this file, I will use the markdown language to summarize [this blog article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) that discusses the concept of growth mindset.
+# Lab 01b - Learning Markdown Language
+This repository is created for 102d36 - Lab 01b. For this file, I will use the markdown language to add information about me, the summarize [this blog article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) that discusses the concept of growth mindset.
+
+## About me 
+Hello, my name is Hasnaa Al-Habbahbeh, I have recently graduated as an electrical engineer from the university of Jordan. I have been always interested and curious towards all technology related fields and topics, this chance is great way for me to dive deeper in the world of web development and software engineering in general. It's my pleasure to meet you all. Click [here](https://github.com/hasnaa38) to visit my GitHub account. 
+
+## Growth mindset summary
 
 ### Two contradictory mindsets 
 There are two main mindsets to navigate life:  
