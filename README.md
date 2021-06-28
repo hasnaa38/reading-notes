@@ -15,7 +15,7 @@ The image below shows the difference between the two.
 ![difference between the two mindsets](https://www.thestatesman.com/wp-content/uploads/2021/01/file.png)
 
 ### The growth mindset 
-If you are having a growth mindset, you will have following: 
+Having a growth mindset means the following: 
 1. **Challenges** - Challenges are a way help you grow and expand your knowledge, so when you face one -and you will-, don't give up. Take a step back, relax, reevaluate the problem and try to find another way around to work it out.   
 2. **Obstacles** - If there were any obstacles standing in your way from reaching the end goal -whether its short term or long-term goal-, fix them! The article suggested two methods: relaxing for a bet and getting back when you are inspired -if it was possible- and splitting the work into smaller chunks and jumping between them. 
 3. **Effort** - No pain, no gain! Do everything you can and more, challenge yourself, and remember that hard work always pays off. 
