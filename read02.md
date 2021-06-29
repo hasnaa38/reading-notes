@@ -29,16 +29,17 @@ The following are the most basic steps to modify a repository from GitHub:
 
 1. Get the repository's URL from GitHub. It will have the following format: `https://github.com/username/repository-name.git`
 2. Clone the repository: `git clone URL` 
-
-![Figure .1](https://i.ytimg.com/vi/DhD0HkOkTYM/maxresdefault.jpg) 
-
-Figure .1 illustrates an example of step1. 
-
 3. Apply your modifications  
 4. Commit changes: `git commit -m “add description”`
 5. Push this version from local to GitHub: `git push origin main`
 
+
+![Figure .1](https://i.ytimg.com/vi/DhD0HkOkTYM/maxresdefault.jpg) 
+
+Figure .1 illustrates an example on step 1 
+
+
 ![Figure .2](https://ma.ttias.be//wp-content/uploads/2015/12/git_push_deploy-685x275.png)
 
-Figure .2 illustrates an example of steps 4 and 5. 
+Figure .2 illustrates an example on steps 4 and 5 
 
