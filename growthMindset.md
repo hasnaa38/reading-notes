@@ -2,7 +2,7 @@
 This repository was created for *code-102d36, Lab 01b - Learning Markdown Language*. 
 For this file, the markdown language was used to style a text that summarizes [this blog article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset). The article discusses the concept of growth mindset.
 
-## Growth mindset summary
+# Growth mindset summary
 
 ### Two contradictory mindsets 
 There are two main mindsets to navigate life:  
