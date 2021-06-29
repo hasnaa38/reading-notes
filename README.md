@@ -1,3 +1,11 @@
-## About me 
-Hello, my name is Hasnaa Al-Habbahbeh, I have recently graduated as an electrical engineer from the university of Jordan. I have been always interested and curious towards all technology related fields and topics, this chance is great way for me to dive deeper in the world of web development and software engineering in general. It's my pleasure to meet you all. Click [here](https://github.com/hasnaa38) to visit my GitHub account. 
+# About me 
+Hello, my name is Hasnaa Al-Habahbeh, I have recently graduated as an electrical engineer from the university of Jordan. I have always been interested and curious towards all technology related fields and topics, this chance is a great way for me to dive deeper into the world of web development and software engineering in general. It's my pleasure to meet you all. 
 
+# Table of contents 
+This repository contains the following files 
+
+Name | Link
+- | -
+growth Mindset | [growthMindset](https://hasnaa38.github.io/reading-notes/growthMindset)
+read 01 | [read01](https://hasnaa38.github.io/reading-notes/read01)
+read 02 | [read02]()
