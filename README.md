@@ -8,4 +8,4 @@ Name | Link
 - | -
 growth Mindset | [growthMindset](https://hasnaa38.github.io/reading-notes/growthMindset)
 read 01 | [read01](https://hasnaa38.github.io/reading-notes/read01)
-read 02 | [read02]()
+read 02 | [read02](https://hasnaa38.github.io/reading-notes/read02)
