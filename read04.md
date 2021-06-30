@@ -1,5 +1,6 @@
 # read 04 
-In this file a summary of *Read 04 - Dynamic web pages with JavaScript* will be provided. The file includes a summary of multiple articles, each topic/article will have its own section and will be provided its link. 
+In this file a summary of *Read 04 - Dynamic web pages with JavaScript* will be provided. The file includes a summary of multiple articles, them being: 
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) // [Input Output in plain JavaScript](https://code-maven.com/input-output-in-plain-javascript) // [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
 
 ## JavaScript
 JavaScript -or in short, JS- is a lightweight, interpreted and compiled programming language, used to add functionality to web applications using a set of instructions. 
