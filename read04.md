@@ -79,8 +79,8 @@ There are many operators used for JS, i.e.
 | ----------- | ----------- |
 | == | Equal to in value |
 | != | Not equal to in value |
-| === | Equale to in value and type |
-| !== | Not equale to in value and type |
+| === | Equal to in value and type |
+| !== | Not equal to in value and type |
 | > | Greater than |
 | < | Less than |
 
