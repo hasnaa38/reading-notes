@@ -4,11 +4,6 @@ Hello, my name is Hasnaa Al-Habahbeh, I have recently graduated as an electrical
 # Table of contents 
 This repository contains the following files 
 
-Name | Link
-- | -
-growth Mindset | 
-read 01 | [read01](https://hasnaa38.github.io/reading-notes/read01)
-read 02 | [read02](https://hasnaa38.github.io/reading-notes/read02)
 
 | Name           | Link                                                                    |
 | -----------    | -----------                                                             |
