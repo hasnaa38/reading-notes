@@ -1,5 +1,5 @@
 # read 03 
-In this file a summary of *Read 03 - Structure web pages with HTML* will be provided. The file includes a summary of multiple articles, each article will have its own section and will be provided its link. 
+In this file a summary of *Read 03 - Structure web pages with HTML* will be provided. The file includes a summary of multiple articles, each topic/article will have its own section and will be provided its link. 
 
 ## Topic 1 - Wireframe and Design 
 
@@ -93,3 +93,12 @@ Example of an unordered list:
   <li>Cheese</li>
 </ul>
 ```
+
+The original article - [HTML basics
+e](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+## Topic 3 - Semantics 
+Semantic elements refere to the meaning/effect/purpose/role of a piece of code. For example, the `<h1>` element is a semantic element that gives the content it wraps the meaning of top level heading on a web page, as a result, the browser will render this text in a large font size. 
+
+The original article - [Semantics
+](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
