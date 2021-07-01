@@ -62,30 +62,8 @@ To check the type of data on the console, use the `typeof` operator:
 console.log(typeof myName) 
 ```
 
-## operators 
-There are many operators used for JS, i.e. 
-- **Arithmetic operators**
+## JavaScript alerts
 
-| Operator      | Meaning |
-| ----------- | ----------- |
-| + | Addition or concatenation (with strings)|
-| - | Subtraction |
-| * | Multiplication |
-| / | Division |
-
-- **Comparison operators** - the type of the result is a boolean 
-
-| Operator      | Meaning |
-| ----------- | ----------- |
-| == | Equal to in value |
-| != | Not equal to in value |
-| === | Equal to in value and type |
-| !== | Not equal to in value and type |
-| > | Greater than |
-| < | Less than |
-
-
-## Other operators
 * `alert("text")` - shows text to the user in a pop-up box.
 
 * `var result = prompt("text")` - shows a pop-up box that takes data from the user, then saves it in the variable result. 
