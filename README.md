@@ -10,3 +10,7 @@ This repository contains the following files:
 | Growth Mindset | [growthMindset](https://hasnaa38.github.io/reading-notes/growthMindset) |
 | Read 01        | [read01](https://hasnaa38.github.io/reading-notes/read01)               |
 | Read 02        | [read02](https://hasnaa38.github.io/reading-notes/read02)               |
+| Read 03        | [read03](https://hasnaa38.github.io/reading-notes/read03)               |
+| Read 04        | [read03](https://hasnaa38.github.io/reading-notes/read04)               |
+| Read 05        | [read05](https://hasnaa38.github.io/reading-notes/read05)               |
+| Read 06        | [read06](https://hasnaa38.github.io/reading-notes/read06)               |
