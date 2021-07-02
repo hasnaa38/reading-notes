@@ -2,13 +2,11 @@
 In this file a summary of *Read: 05 - Operators and Loops* will be provided. The file includes a summary of multiple articles, them being: 
 [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) // [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration). 
 
-<<<<<<< HEAD
 ## JavaScript Operators and Expressions
 
 ### Topic 1 - JavaScript Operators
 =======
 ## JavaScript Operators
->>>>>>> 05828b9f1df89aeb77cbee36ce173e186114e3f6
 JavaScript has the following types of operators. The main ones are: 
 
 - **Assignment operator ** `=` assigns a value to its left operand based on the value of its right operand.
@@ -59,25 +57,13 @@ Each one of these operators has its own truth table:
 
 #### Or truth table: 
 
-<<<<<<< HEAD
-
-| A      | B      |`A || B`|
+| A      | B      | A or B |
 |--------|--------|--------|
 | True   | True   | True   |
 | True   | False  | True   | 
 | False  | True   | True   | 
 | False  | False  | False  |
 
-
-=======
-| A      | B      | `A || B` |
-|--------|--------|--------|
-| True   | True   | True   |
-| True   | False  | True  | 
-| False  | True   | True  | 
-| False  | False  | False  |
-
->>>>>>> 05828b9f1df89aeb77cbee36ce173e186114e3f6
 #### Not truth table: 
 
 | A      | !A    |
@@ -86,8 +72,6 @@ Each one of these operators has its own truth table:
 | False  | True  | 
 
 
-
-<<<<<<< HEAD
 ### Topic 2 - JavaScript Expressions
 An expression is any valid unit of code that resolves to a value.
 conceptually, there are two types of expressions:
@@ -95,6 +79,8 @@ conceptually, there are two types of expressions:
 1. Expressions with side effects - for example: `x = 8` is an expression that used the `=` operator to assign the value 8 to the variable x. 
 
 2. Expressions that evaluate and therefore resolve to a value - for example: `4 + 4` is an expression that uses the `+` operator to add 4 and 4 together without assigning the result to a variable.
+
+
 
 ## Loops and iteration
 
@@ -131,6 +117,3 @@ while (condition) {
   statement
 }
 ```
-=======
-## Expressions
-An expression is any valid unit of code that resolves to a value.
