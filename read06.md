@@ -67,3 +67,32 @@ priority list -from the highest to the lowest-:
 2. Internal and External style sheets (in the head section)
 
 3. Browser default
+
+
+
+## CSS color property
+To specify the color of any text (paragraph, heading, etc). Syntax: `color: value;`
+
+Example: 
+```
+body {
+  color: red;
+}
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+}
+```
+
+#### Color values: 
+- color name, e.g. `color: red;`
+- HEX value, e.g. `color: #92a8d1;`
+- RGB value, e.g. `color: rgb(201, 76, 76);`
+- RGBA value e.g. `color: rgba(201, 76, 76, 0.6);`
+- HSL value, e.g. `color: hsl(89, 43%, 51%);`
+- HSLA value, e.g. `color: hsla(89, 43%, 51%, 0.6);`
+
