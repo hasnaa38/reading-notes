@@ -5,8 +5,6 @@ In this file a summary of *Read: 05 - Operators and Loops* will be provided. The
 ## JavaScript Operators and Expressions
 
 ### Topic 1 - JavaScript Operators
-=======
-## JavaScript Operators
 JavaScript has the following types of operators. The main ones are: 
 
 - **Assignment operator ** `=` assigns a value to its left operand based on the value of its right operand.
