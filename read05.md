@@ -38,9 +38,9 @@ _**Note**_ the addition operator `+` is used to add two numerical operands. Howe
 
 | Operator      | Meaning |
 | ----------- | ----------- |
-| `&&` | And |
-| `||` | OR |
-| `!` | Not |
+| && | And |
+| two vertical bars :)  | OR |
+| ! | Not |
 
 Each one of these operators has its own truth table: 
 
@@ -115,3 +115,8 @@ while (condition) {
   statement
 }
 ```
+
+||
+/||
+\||
+.||
