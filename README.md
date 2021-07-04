@@ -14,3 +14,5 @@ This repository contains the following files:
 | Read 04        | [read03](https://hasnaa38.github.io/reading-notes/read04)               |
 | Read 05        | [read05](https://hasnaa38.github.io/reading-notes/read05)               |
 | Read 06        | [read06](https://hasnaa38.github.io/reading-notes/read06)               |
+| Read 07        | [read07](https://hasnaa38.github.io/reading-notes/read07)               |
+
