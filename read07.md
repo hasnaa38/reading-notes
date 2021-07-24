@@ -1,4 +1,4 @@
-# read 06 
+# read 07 
 In this file a summary of *Read: 07 - Programming with JavaScript* will be provided. The file includes a summary for multiple articles, them being: 
 [Control flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) // [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp).
 
