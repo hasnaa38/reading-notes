@@ -40,19 +40,19 @@ An example would be:
 
 * **Attributes** provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a *name* and a *value*, separated by an equals sign. 
 An example would be: 
+
 ```
 <p lang="en-us">Paragraph in English</p>
 ```
+
 Here an attribute called `lang` is 
 used to indicate the language used in this element. The value of this attribute on this page specifies it is in US English.
-
 
 HTML pages are usually divided into two main elements:
 
 1. The head element `<head> ... </head>` - which contains information about the page. 
 
 2. The body element `<body> ... </body>` - everything inside this element is shown inside the main browser window. 
-
 
 
 ### Chapter 8: Extra Markup
@@ -67,15 +67,18 @@ To add comments to the code: `<!-- Add The Comment Here -->`.
 They are used to uniquely identify that element 
 from other elements on the page. Every HTML element can carry an id attribute. 
 To add it to an element: 
+
 ```
 <h1 id="mainHeadingID">This is the Main Heading</h1>
 ``` 
+
 The id attribute is known as a **global attribute** because it can be used on any element. 
 
 #### Class attributes 
 They are used to identify several elements as being different from the other elements on the page. 
 Every HTML element can also carry a class attribute. 
 To add it to an element: 
+
 ```
 <h1 class="mainHeadingClass">This is the Main Heading</h1>
 ``` 
@@ -92,6 +95,7 @@ HTML5 is introducing a new set of elements that help define the structure of a w
 
 The `<header>`, `<main>`, and `<footer>` elements can be added to the `<body>` of the page to indicate the purpose of 
 each part of the code and help to describe the structure. An example of a code would be: 
+
 ```
 <!DOCTYPE html>
 <html>
@@ -110,7 +114,8 @@ each part of the code and help to describe the structure. An example of a code w
 ```
 
 Older browsers that do not understand the new HTML5 elements and will automatically treat them as 
-inline elements. Therefore, to help older browsers, the following CSS line should be included to state the new elements that should be rendered as block-level elements.
+inline elements. Therefore, to help older browsers, the following CSS line should be included to state the new elements that should be rendered as block-level elements:
+
 ```
 header, section, footer, aside, nav, article, figure 
 {
@@ -125,7 +130,6 @@ display: block;}
 2. Why are people visiting the website and what are they trying to achieve?
 3. What information do your visitors need/give? 
 4. How often will people visit the website? 
-
 
 #### Site maps
 allow the designer  to plan the structure of a site.
@@ -182,7 +186,6 @@ Web developers mainly use about three languages to create web pages: HTML, CSS, 
 
 
 The best practice is to keep JavaScript code in its own JavaScript file, then link it to the web page using the HTML `<script>` element and the `src` attribute -to identify where it is stored-. For example:
- ```
+```
 <script src="main.script.js"></ script>
 ```
-
