@@ -124,7 +124,7 @@ If there are multiple styling rules specified for one HTML element, the value fr
 
 #### Statements
 
-A script is a series of instructions that the computer follows in order to achieve a goal. Each individual instruction is known as a **statement**. In JS, each statement should start on a new line end with a semicolon `;`.
+A script is a series of instructions that the computer follows in order to achieve a goal. Each individual instruction is known as a **statement**. In JS, each statement should start on a new line and end with a semicolon `;`.
 
 #### Comments
 
@@ -134,7 +134,7 @@ Use `//` to add a **single-line JS comment** and `/* your comment */` to add a *
 #### Variables
 
 * Variables are containers used for temporarily storing data used in the script.
-* Vairables should be declared first then used. To **declare a variable**, use `var variableName;` or `let variableName;`. After declaring a variable you can **assign a value** to it using the *assignment operator* `=` followed by the *value*. Example: `let age = 23;`.
+* Variables should be declared first then used. To **declare a variable**, use `var variableName;` or `let variableName;`. After declaring a variable you can **assign a value** to it using the *assignment operator* `=` followed by the *value*. Example: `let age = 23;`.
 * The value of a variable can be changed/update along the code, the variable will always keep the most recent value that has been declared to it.
 
 #### Data types
@@ -147,23 +147,109 @@ The type of values a variable can take and the operations that can be performed 
 
 #### Arrays
 
-Arrays are variables that stores a list of values. Example: 
+Arrays are variables that store a list of values. Example: 
 
 ```
 var names; 
-namess= ['Sarah','Samar', 'Aseel']; 
+names= ['Sarah','Samar', 'Aseel']; 
 ```
 
-*Sarah* has the **index** 0, so executing `names[0]` resules in *Sarah*.
+*Sarah* has the **index** 0, so executing `names[0]` results in *Sarah*.
 
 #### Expressions
 
-Expressions evaluate into a single value and rely on operators to calculate a value. Basic types of operators:
+Expressions evaluate into a single value and rely on operators to calculate a value. The basic operators are:
 
 1. Assignment operator - `=` is used to assign a value to a variable
 2. Arithmetic operators - they take 2 numerical operands and return a single numerical value.
 3. String operator - `+` is used to concatenate operators
 
-
-
 ### Chapter 4: Decisions and Loops
+
+Used to control the flow of code in the scripts so it handles different situations. 
+
+#### Comparison operators
+
+They compare two values and return a logical value based on the comparison result (either true or false). 
+
+Table of comparison operators:
+
+| Operator      | Meaning |
+| ----------- | ----------- |
+| == | Equal to in value |
+| != | Not equal to in value |
+| === | Equal to in value and type |
+| !== | Not equal to in value and type |
+| > | Greater than |
+| < | Less than |
+| >= | Greater than or equal to |
+| <= | Less than or equal to |
+
+Syntax: `operand 1 comparison operator operand 2`, the operand can be a value, variable, or an expression. 
+
+Example: `(number1 + number 2) >= (number1 * number2)`
+
+#### Logical operators
+
+These operators compare between booleans; for example the results of comparison operators. 
+
+Table of logical operators: 
+
+| Operator      | Meaning |
+| ----------- | ----------- |
+| && | And |
+| two vertical bars :)  | OR |
+| ! | Not |
+
+Each one of these operators has its own truth table: 
+
+#### And truth table: 
+
+| A      | B      | A && B |
+|--------|--------|--------|
+| True   | True   | True   |
+| True   | False  | False  | 
+| False  | True   | False  | 
+| False  | False  | False  |
+
+#### Or truth table: 
+
+| A      | B      | A or B |
+|--------|--------|--------|
+| True   | True   | True   |
+| True   | False  | True   | 
+| False  | True   | True   | 
+| False  | False  | False  |
+
+#### Not truth table: 
+
+| A      | !A    |
+|--------|-------|
+| True   | False |
+| False  | True  | 
+
+Syntax: `expression 1 logical operand expression 2`, example: `(5<2) && (10==12)`
+
+#### If statements
+
+The if statement checks the condition, if it evaluates to *true*; the code will be executed, if not; it will ignore the code block and complete executing the script. Syntax:
+
+```
+if (condition) {
+    block of statements; 
+}
+```
+
+#### If...else statement
+
+The if...else statement checks the condition, if it evaluates to *true*; the first block of code will be executed, if not; the second block of code will be executed. Syntax:
+
+```
+if (condition) {
+    first block of code; 
+}
+else {
+    second block of code;
+}
+```
+
