@@ -62,6 +62,62 @@ element.
 
 ### Chapter 10: Introducing CSS
 
+#### What is CSS
+
+CSS is used for styling HTML pages. It works by associating rules with HTML elements.
+
+#### How to add CSS style rules to HTML elements
+
+There are three ways of adding CSS to HTML elements:
+
+1. Inline - used to apply unique styling rules for a single HTML element. This can be done by adding the `style` attribute to the relevant element, followed by the declaration. Example:
+
+```
+<p style="color:red;">This is a paragraph</p>
+```
+
+2. Internal - used to apply styling rules on one single HTML page. To do so, defined a `<style>` element inside the head section and add your rules there. Example:
+
+```
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+```
+
+3. External - used to style multiple web pages bylisting all the styling rules in one .css file then link it in the required HTML pages using the `<link>` element. Example:
+
+```
+<link rel="stylesheet" href="mystyle.css">
+```
+
+#### CSS rule parts
+
+Each CSS rule contains two parts: **selector** and **declaration**. Lets take an example and break it down:
+
+```
+p {
+    color: blue; 
+}
+```
+
+In this example, *p* is the **selector**; which indicates the element we are trying to style. *color: blue;* is the **declaration**; which indicate how the selected elements should be styled.
+The declaration is made up of two parts: **property**; which is *color* and the **value** of it; which is *blue*.
+
+#### Cascading order
+
+If there are multiple styling rules specified for one HTML element, the value from the highest priority style will override the others. priority list -from the highest to the lowest-:
+
+1. Inline style (inside an HTML element)
+2. Internal and External style sheets (in the head section)
+3. Browser default
+
 ## From the Duckett JavaScript book
 
 ### Chapter 2: Basic JavaScript Instructions
