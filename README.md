@@ -26,7 +26,7 @@ This page contains the links of all the required reading notes for this course.
 | Name           | Link  |
 | -----------    | ----------- |
 | Read 01        | [read01](https://hasnaa38.github.io/reading-notes/class-01)|
-| Read 02        | [read02]()|
+| Read 02        | [read02](https://hasnaa38.github.io/reading-notes/class-02)|
 | Read 03        | [read03]()|
 | Read 04        | [read03]()|
 | Read 05        | [read05]()|

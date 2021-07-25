@@ -6,7 +6,7 @@ In this file, a summary of **Read: 02 - HTML Text, CSS Introduction, and Basic J
 
 ### Chapter 2: Text
 
-HTML elements are used to describe the structure of the page. Therefor, a discussion on the the elements used for adding markup to the text that appears on a web page is provided in this chapter.
+HTML elements are used to describe the structure of the page. Therefore, a discussion on the elements used for adding markup to the text that appears on a web page is provided in this chapter.
 
 #### Headings
 
@@ -43,13 +43,13 @@ Paragraphs are block elements, which means that each paragraph starts at a new l
 
 * Browsers only display one space if two or more spaces were written next to each other in the code. Also, it displays line breaks as a single space too. This is known as *white space collapsing*.
 
-* The `<br />` tag is useed to jump to a new line within the same paragraph. An example would be:
+* The `<br />` tag is used to jump to a new line within the same paragraph. An example would be:
 
 ```
 <p>This is one paragraph<br />but this text will be added on another line</p>
 ```
 
-* The `<hr />` tag is useed to create a line break between elements.
+* The `<hr />` tag is used to create a line break between elements.
 
 #### Other elements
 
@@ -76,7 +76,7 @@ There are three ways of adding CSS to HTML elements:
 <p style="color:red;">This is a paragraph</p>
 ```
 
-2. Internal - used to apply styling rules on one single HTML page. To do so, defined a `<style>` element inside the head section and add your rules there. Example:
+2. Internal - used to apply styling rules on one single HTML page. To do so, define a `<style>` element inside the head section and add your rules there. Example:
 
 ```
 <style>
@@ -91,7 +91,7 @@ h1 {
 </style>
 ```
 
-3. External - used to style multiple web pages bylisting all the styling rules in one .css file then link it in the required HTML pages using the `<link>` element. Example:
+3. External - used to style multiple web pages by listing all the styling rules in one .css file then link it in the required HTML pages using the `<link>` element. Example:
 
 ```
 <link rel="stylesheet" href="mystyle.css">
@@ -99,7 +99,7 @@ h1 {
 
 #### CSS rule parts
 
-Each CSS rule contains two parts: **selector** and **declaration**. Lets take an example and break it down:
+Each CSS rule contains two parts: **selector** and **declaration**. Let's take an example and break it down:
 
 ```
 p {
@@ -107,7 +107,7 @@ p {
 }
 ```
 
-In this example, *p* is the **selector**; which indicates the element we are trying to style. *color: blue;* is the **declaration**; which indicate how the selected elements should be styled.
+In this example, *p* is the **selector**; which indicates the element we are trying to style. *color: blue;* is the **declaration**; which indicates how the selected elements should be styled.
 The declaration is made up of two parts: **property**; which is *color* and the **value** of it; which is *blue*.
 
 #### Cascading order
@@ -121,5 +121,49 @@ If there are multiple styling rules specified for one HTML element, the value fr
 ## From the Duckett JavaScript book
 
 ### Chapter 2: Basic JavaScript Instructions
+
+#### Statements
+
+A script is a series of instructions that the computer follows in order to achieve a goal. Each individual instruction is known as a **statement**. In JS, each statement should start on a new line end with a semicolon `;`.
+
+#### Comments
+
+Comments are used to add information about the code and they will not be executed when running the code.
+Use `//` to add a **single-line JS comment** and `/* your comment */` to add a **multi-line JS comment**.  
+
+#### Variables
+
+* Variables are containers used for temporarily storing data used in the script.
+* Vairables should be declared first then used. To **declare a variable**, use `var variableName;` or `let variableName;`. After declaring a variable you can **assign a value** to it using the *assignment operator* `=` followed by the *value*. Example: `let age = 23;`.
+* The value of a variable can be changed/update along the code, the variable will always keep the most recent value that has been declared to it.
+
+#### Data types
+
+The type of values a variable can take and the operations that can be performed on it. The main data types JS uses are:
+
+1. Numeric data type - it handles all sorts of numbers; integers, floating points, etc.
+2. String data type - it handles letters and other characters.
+3. Boolean data type - can be either *true* or *false*.
+
+#### Arrays
+
+Arrays are variables that stores a list of values. Example: 
+
+```
+var names; 
+namess= ['Sarah','Samar', 'Aseel']; 
+```
+
+*Sarah* has the **index** 0, so executing `names[0]` resules in *Sarah*.
+
+#### Expressions
+
+Expressions evaluate into a single value and rely on operators to calculate a value. Basic types of operators:
+
+1. Assignment operator - `=` is used to assign a value to a variable
+2. Arithmetic operators - they take 2 numerical operands and return a single numerical value.
+3. String operator - `+` is used to concatenate operators
+
+
 
 ### Chapter 4: Decisions and Loops
