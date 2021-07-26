@@ -14,7 +14,7 @@ This page contains the links of all the required reading notes for this course.
 | Read 01        | [read01](https://hasnaa38.github.io/reading-notes/read01)               |
 | Read 02        | [read02](https://hasnaa38.github.io/reading-notes/read02)               |
 | Read 03        | [read03](https://hasnaa38.github.io/reading-notes/read03)               |
-| Read 04        | [read03](https://hasnaa38.github.io/reading-notes/read04)               |
+| Read 04        | [read04](https://hasnaa38.github.io/reading-notes/read04)               |
 | Read 05        | [read05](https://hasnaa38.github.io/reading-notes/read05)               |
 | Read 06        | [read06](https://hasnaa38.github.io/reading-notes/read06)               |
 | Read 07        | [read07](https://hasnaa38.github.io/reading-notes/read07)               |
@@ -27,8 +27,8 @@ This page contains the links of all the required reading notes for this course.
 | -----------    | ----------- |
 | Read 01        | [read01](https://hasnaa38.github.io/reading-notes/class-01)|
 | Read 02        | [read02](https://hasnaa38.github.io/reading-notes/class-02)|
-| Read 03        | [read03]()|
-| Read 04        | [read03]()|
+| Read 03        | [read03](https://hasnaa38.github.io/reading-notes/class-03)|
+| Read 04        | [read04]()|
 | Read 05        | [read05]()|
 | Read 06        | [read06]()|
 | Read 07        | [read07]()|

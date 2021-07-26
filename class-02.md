@@ -164,7 +164,7 @@ Expressions evaluate into a single value and rely on operators to calculate a va
 2. Arithmetic operators - they take 2 numerical operands and return a single numerical value.
 3. String operator - `+` is used to concatenate operators
 
-### Chapter 4: Decisions and Loops
+### Chapter 4: Decisions and Loops - Conditional statements
 
 Used to control the flow of code in the scripts so it handles different situations. 
 
@@ -253,3 +253,19 @@ else {
 }
 ```
 
+#### Switch statement 
+
+Syntax: 
+
+```
+switch (expression) { 
+case 'A': 
+statements;
+break; 
+case 'B': 
+statements;
+break; 
+default: 
+statements;
+break; 
+```
