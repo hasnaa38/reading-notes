@@ -125,7 +125,77 @@ The Document Object Model (DOM) is a set of rules that specifies:
 
 The DOM is called an object model because the model (the DOM tree) is made of *objects*. Each object represents a different part of the page loaded in the browser window. 
 
-* **How JS can access and update the contents of a web page while it is in the browser window** - the DOM also defines *methods* and *properties* to access and update each object in this model to update what the user sees in the browser.
+* **How JS can access and update the contents of a web page while it is in the browser window** - the DOM also defines *methods* and *properties* to access and update each object in this model to update what the user sees in the browser. Scripts access and update the DOM tree (not the source HTML file). Any changes made to the DOM tree are reflected in the browser.
 
 ***NOTE*** Some people call the DOM an *Application Programming Interface (API)*. APls let programs and scripts interact with each other. The DOM states what the script can ask the browser about the current page, and how to tell the browser to update what is being shown to the user.
 
+***NOTE*** Browsers offer tools for viewing the DOM tree.
+
+### Nodes
+
+Every element, attribute, and piece of text in the HTML page is represented by its own DOM node. DOM trees have four types of nodes (can be seen in Figure .1):
+
+* **Document/root nodes** - the starting point for all visits to the DOM tree. To access any element, attribute, or text node, you navigate to it via the document node.
+
+* **Element nodes** - the HTML elements that describe the structure of an HTML page. For example, the `<h1>` - `<h6>` elements describe what parts are headings, and the `<p>` tags indicate where paragraphs of text start and finish.
+
+* The relationships between the document and all of the element nodes are described using the following terms: parents, children, siblings, ancestors, and descendants.
+
+* Every node is a descendant of the document node.
+
+* **Attribute nodes** - the attributes carried by the opening tag of the elements.
+
+* Attribute nodes are not children of the element that carries them; they are part of that element.
+
+* **Text nodes** - the text within the elements.
+
+* Text nodes cannot have children. If an element contains text and another child element, the child 
+element is a child of the containing element.
+
+![The DOM tree nodes](https://1.bp.blogspot.com/-c1VhRCxc4ds/X5938GT76GI/AAAAAAAACFU/yzX7a1aIinIR_i4sy7dSIW9z8Q5mgX72QCLcBGAsYHQ/s732/dom1.png)
+
+Visiting this link will give additional information about DOM trees and the nodes relationships: [HTML DOM](http://www-acad.sheridanc.on.ca/~jollymor/syst10049/dom.html)
+
+
+* Each node is an object with methods and properties. 
+
+### DOM queries
+
+The methods that find elements in the DOM tree. The query of an element can be stored in a variable and used more than once. The variable will actually store the location of the element in the DOM tree.
+
+DOM queries may return one element, or they may return a Nodelist; which is a set of nodes.
+
+### Element nodes
+
+#### Finding/selecting element nodes
+
+Element nodes can be selected by:
+
+* Their *ID attribute* - `getElementByld('ID')`
+
+* Their *class attribute* - `getElementsByClassName('class')`
+
+* Their *tag name* - `getElementsByTagName('tagName)`
+
+* Using *CSS selector* - `querySelector('css selector')`
+
+#### Getting/updating element content
+
+There are two approaches to add/remove content from the DOM tree:
+
+* Using properties such as `textContent` and `innerHTML`. This can update entire fragments. 
+
+The `innerHTML` property can be used to:
+
+1. Get HTML from an element,this property will get the content of an element and return it as one long string, including any markup that the element contains.
+
+2. Set new content for an element, it will take a string that can contain markup and process that string, then add it to the DOM tree.
+Be careful when using this property to add content because one missing closing tag could throw out the design of the entire page.
+
+* Using DOM manipulation techniques. It targets individual nodes in the tree. This approach involves three steps:
+
+1. Create the element - the `createElement()` is used to create a new element node. This element node is stored in a variable.
+
+2. Give it content - the `createTextNode()` is used to create a new text node, also stored in a variable. To add this text node to the element node use the `appendChild()` method. This step can be skipped if you want to add an empty element to the DOM tree.
+
+3. Add it to the DOM - the `appendChild()` method is used to add the element to the DOM tree.
