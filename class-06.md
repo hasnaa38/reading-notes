@@ -135,19 +135,19 @@ The DOM is called an object model because the model (the DOM tree) is made of *o
 
 Every element, attribute, and piece of text in the HTML page is represented by its own DOM node. DOM trees have four types of nodes (can be seen in Figure .1):
 
-* **Document/root nodes** - the starting point for all visits to the DOM tree. To access any element, attribute, or text node, you navigate to it via the document node.
+1. **Document/root nodes** - the starting point for all visits to the DOM tree. To access any element, attribute, or text node, you navigate to it via the document node.
 
-* **Element nodes** - the HTML elements that describe the structure of an HTML page. For example, the `<h1>` - `<h6>` elements describe what parts are headings, and the `<p>` tags indicate where paragraphs of text start and finish.
+2. **Element nodes** - the HTML elements that describe the structure of an HTML page. For example, the `<h1>` - `<h6>` elements describe what parts are headings, and the `<p>` tags indicate where paragraphs of text start and finish.
 
 * The relationships between the document and all of the element nodes are described using the following terms: parents, children, siblings, ancestors, and descendants.
 
 * Every node is a descendant of the document node.
 
-* **Attribute nodes** - the attributes carried by the opening tag of the elements.
+3. **Attribute nodes** - the attributes carried by the opening tag of the elements.
 
 * Attribute nodes are not children of the element that carries them; they are part of that element.
 
-* **Text nodes** - the text within the elements.
+4. **Text nodes** - the text within the elements.
 
 * Text nodes cannot have children. If an element contains text and another child element, the child 
 element is a child of the containing element.
