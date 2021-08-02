@@ -6,7 +6,7 @@ In this file, a summary of **Read: 08 - More CSS Layout** will be provided. The 
 
 CSS treats each HTML element as if it is in its own box. This box will either be:
 
-* A b*lock-level* box: starts on a new line and uses the full width of the page or container. Examples: `<p>`, `<div>`, `<nav>`, `<ol>` and `<ul>`, `<table>` and `<section>`.
+* A *block-level* box: starts on a new line and uses the full width of the page or container. Examples: `<p>`, `<div>`, `<nav>`, `<ol>` and `<ul>`, `<table>` and `<section>`.
 
 * An *inline* box: flows between surrounding text. Examples: `<span>` and `<a>`.
 
@@ -56,20 +56,20 @@ Example:
 
 ```
 <div class="column1of3">
-    <h1>HEADER1</h1>
-    <p>lorem</p>
+    <h1>Left column</h1>
+    <p>...</p>
 </div>
 <div class="column2of3">
-    <h1>HEADER2</h1>
-    <p>lorem</p>
+    <h1>Center column</h1>
+    <p>...</p>
 </div>
 <div class="column3of3">
-    <h1>HEADER3</h1>
-    <p>lorem</p>
+    <h1>Right column</h1>
+    <p>...</p>
 </div>
 ```
 
-**The CSS code***
+**The CSS code**
 
 ```
 .column1of3, .column2of3, .column3of3 {
@@ -80,7 +80,7 @@ margin: 10px;}
 
 **Results**
 
-![3-column layout](https://i.stack.imgur.com/FKQKe.png)
+![3-column layout](https://miro.medium.com/max/1400/1*vI1swETTM0HNBuoPfm0hmw.png)
 
 ## Screens
 
