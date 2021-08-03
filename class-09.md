@@ -11,6 +11,8 @@ In this file, a summary of **Read: 09 - Forms and Events** will be provided. The
 | Chapter 7    | Forms       |
 | Chapter 14   | Lists, Tables & Forms | 
 
+
+
 * From the Duckett JS book
 
 | Chapter      | Topic |
@@ -113,4 +115,65 @@ list-style-image: url("images/star.png");
 
 * The `cursor` property is used to control the type of mouse cursor that should be displayed to users.
 
+## Chapter 6: Events [js]
+
+Events are the browser's way of indicating when something has happened, for example when a page finish loading, an input field was changed, or a button was clicked. JavaScript can *react* to events by executing code when these events are detected.
+
+When events are *fired/ raised* (has occurred), they *trigger* functions or scripts.
+
+### Event handling
+
+Event handling is the steps involved in getting an event to trigger some JavaScript code, them being:
+
+1. Select the element nodes you want the script to respond to.
+2. Indicate which event on the selected nodes will trigger the response.
+3. State the code you want to run when the event occurs.
+
+Steps 1 and 2 are known as the **binding** process, which is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen upon.
+
+### Event handlers
+
+Event handlers let you bind an event to an element (indicating which event you are waiting for on the element), and then assign the function that should be executed when that event fires. There are three types of event handlers:
+
+1. Html event handlers - bad practice because it involves using JavaScript with HTML. It can be found in older code.
+2. DOM event handlers - they can only attach one function to each event handler. Syntax:
+
+```
+element.onevent = functionName;
+```
+
+Where `element` is the DOM element node you want to target, `onevent` is the event name preceded by the word "on", and `Name` is the name of the function. The parentheses are omitted from the event handler because we don't want the code to run until the event fires.
+
+3. Event listeners - they can deal with more than one function at a time but they are not supported in older browsers. Syntax:
+
+```
+element.addEventlistener('event', functionName, Boolean); 
+```
+
+Where `element` is the DOM element node to target, `event` is the event name in quotation marks, `functionName` is the name of the function, and `boolean` indicates the capture, and is usually set to *false*.
+
+### The event object
+
+When an event fires, the *event object* tells you information about the event and the element it happened upon.
+
+### Event flow
+
+> When you click an element that is nested in various other elements, before your click actually reaches its destination, or target element, it must trigger the click event each of its parent elements first, starting at the top with the global window object. 
+
+So, events affect the containing (ancestor) elements due to the event flow.
+
+### Target property
+
+When calling a function, the event object `target` property is used to determine which element the event occurred on.
+
+Also, `this` keyword can be used if no parameters are being passed to the function; since it refers to the owner of a function, which is the element that the event is on.
+
+### Event delegation
+
+* Creating event listeners for a lot of elements can slow down a page.
+* Event flow allows you to listen for an event on a parent element.
+
+Event delegation is placing event handlers on a containing element and using the event object `target` property to find which of its children the event has happened on. By attaching an event listener to the containing element, you are delegating the job of the event listener to a parent of the elements.
+
+Using event delegation to monitor for events that happen on all of the children of an element means that you are only responding to one element; so it will help in saving memory and making the page faster.
 
