@@ -14,6 +14,8 @@ The interpreter processes code line-by-line. When a statement needs data from an
 
 There is only one global execution context in any page. Whereas the code being run within a function has its own function context.
 
+![Execution context](https://res.cloudinary.com/practicaldev/image/fetch/s--Dm0VYkB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l7avn35tb8ua5fl4gnoh.png)
+
 If a variable is declared outside a function, it can be used anywhere, this is known as global scope. But when a variable is declared within a function, it can only be used within that function, this is known as function-level scope.
 
 Each time a script enters a new execution context, there are two phases of activity:
