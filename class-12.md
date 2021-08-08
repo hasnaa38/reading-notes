@@ -1,4 +1,4 @@
-Code 201 - Read 12
+# Code 201 - Read 12
 
 In this file, a summary of **Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js** will be provided. The read covers multiple articles.
 
