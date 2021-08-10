@@ -28,7 +28,7 @@ They work on the **x** (horizontal) and **y** axes (vertical) axes.
 
 * **2D Skew** `transform: skew(valueX, valueY)` - used to distort elements on the horizontal axis, vertical axis, or both.
 
-[2D Transforms](https://miro.medium.com/max/1400/1*_NVMTnvHTM9teQxrVRlDeg.png)
+![2D Transforms](https://miro.medium.com/max/1400/1*_NVMTnvHTM9teQxrVRlDeg.png)
 
 #### 3D Transforms
 
