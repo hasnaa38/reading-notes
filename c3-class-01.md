@@ -1,6 +1,6 @@
 # Code 301 - Read 01
 
-In this file, a summary of **Read: 01 - Introduction to React and Components** will be provided.
+In this file, a summary of **Read: Class 01 - Introduction to React and Components** will be provided.
 
 ## Topic 1 - Component Based Architecture
 
