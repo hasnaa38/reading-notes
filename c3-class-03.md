@@ -4,6 +4,8 @@ In this file, a summary of **Read: Class 03 - Passing Functions as Props** will 
 
 ## Topic 1 - lists and keys
 
+[Article](https://reactjs.org/docs/lists-and-keys.html)
+
 ### Lists
 
 To create a component that accepts an array and outputs a list of elements:
@@ -78,6 +80,8 @@ It helps React identify the items that have changed, are added, or are removed. 
 
 ## Topic 2 - The Spread Operator
 
+[Article](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+
 The spread operator is an ES6 syntax used for expanding an iterable (object, array, string) into individual elements, i.e, adding items to arrays, combining arrays or objects, or spreading an array out into function arguments.
 
 syntax: `...`
@@ -128,6 +132,8 @@ console.log(object1_2);
 ```
 
 ## Topic 3 - How to Pass Functions Between Components
+
+[Video](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 ### Steps:
 

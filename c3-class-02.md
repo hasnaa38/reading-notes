@@ -4,6 +4,8 @@ In this file, a summary of **Read: Class 02 - State and Props** will be provided
 
 ## Topic 1 - React components lifecycle
 
+[Article](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+
 Every React component has a lifecycle.
 There are 3 phases/stages of the component lifecycle:
 
@@ -53,6 +55,8 @@ There are 3 phases/stages of the component lifecycle:
 * What does componentDidMount do? Indicates that the component has been mounted.
 
 ## Topic 2 - React State Vs Props
+
+[Video](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
 Both are JavaScript objects that hold data.
 

@@ -4,6 +4,8 @@ In this file, a summary of **Read: Class 01 - Introduction to React and Componen
 
 ## Topic 1 - Component Based Architecture
 
+[Article](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
 ### What is a component?
 
 A component is a modular, portable, replaceable, and reusable software unit that encapsulates the functionality and behavior of software elements.
@@ -27,6 +29,8 @@ A component is a modular, portable, replaceable, and reusable software unit that
 6. **Reduces the cost** − using third-party components may reduce the cost of development and maintenance.
 
 ## Topic 2 - Props
+
+[Article](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
 Props are used to pass data from one component to another. Therefore, they allow communication (data exchange) between system components.
 
