@@ -33,10 +33,10 @@ To handle multiple controlled input elements add a name attribute to each elemen
 An input form element whose value is controlled by the React state as the only source for the value within the component and the form event value from the React component that renders the form.
 
 * Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
-We wait until they submit because they might change the input while typing it so storing all their tries will end up being impractical.
+Using this approach its better if we better wait because of the asynchronous behavior of the state (it doesn’t update immediately) which is impractical.
 
 * How do we target what the user is entering if we have an event handler on an input field?
-using `event.target.userInput`
+assigning the result of `event.target.userInput` to a state.
 
 
 ## The Conditional (Ternary) Operator
