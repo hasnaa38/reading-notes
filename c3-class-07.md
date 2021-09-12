@@ -4,6 +4,8 @@ In this file, a summary of **Read: Class 07 - REST** will be provided.
 
 ## REST
 
+[GitHub post](https://gist.github.com/brookr/5977550)
+
 * Who is Roy Fielding?
 
 He is the person who helped writing the HTTP protocol for web servers that sent documents across the internet. Also, he did a lot of research explaining why the web works the way it does. His name is on the specification for the protocol that is used to get pages from servers to your browser.
