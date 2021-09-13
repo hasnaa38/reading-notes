@@ -6,7 +6,7 @@ In this file, a summary of **Read: Class 08 - APIs** will be provided.
 
 * What does REST stand for?
 
-It is an architectural style for building web services.
+Representational State Transfer - It is an architectural style for building web services.
 
 * REST APIs are designed around resources. Resources can be any kind of object, data, or service that can be accessed by the client.
 
