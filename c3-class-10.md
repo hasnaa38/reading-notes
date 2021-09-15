@@ -8,7 +8,7 @@ In this file, a summary of **Read: Class 10 - FUNCTIONAL PROGRAMMING** will be p
 
 The **JavaScript engine** is a single-threaded interpreter comprising of a heap and a single call stack. It is found in a hosting environment like the browser. The browser provides web APIs like the DOM, AJAX, and Timers.
 
-A **call stack** is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call). Since the js engin has a single call stack, calls are done one at a time, from top to bottom. It means the call stack is `synchronous`.
+A **call stack** is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call). Since the js engine has a single call stack, calls are done one at a time, from top to bottom. It means the call stack is `synchronous`.
 
 * What is a ‘call’?
 
