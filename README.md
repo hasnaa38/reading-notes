@@ -1,12 +1,13 @@
 # Reading Notes
 
-## About Me
-
-Hello, my name is Hasnaa Al-Habahbeh, I have recently graduated as an electrical engineer from the university of Jordan. I have always been interested and curious towards all technology related fields and topics, this chance is a great way for me to dive deeper into the world of web development and software engineering in general. It's my pleasure to meet you all.
-
-## Page content
-
 This page contains the links of all the required reading notes for ASAC-LTUC software development course.
+
+## Code 401 - Advanced Software Development
+
+| Name           | Link  |
+| -----------    | ----------- |
+| Read 01        | [read01](https://hasnaa38.github.io/reading-notes/FILE_NAME_HERE)|
+| Read 02        | [read02](https://hasnaa38.github.io/reading-notes/FILE_NAME_HERE)|
 
 ## Code 301 - Intermediate Software Development
 
