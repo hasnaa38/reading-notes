@@ -6,7 +6,8 @@ This page contains the links of all the required reading notes for ASAC-LTUC sof
 
 | Name           | Link  |
 | -----------    | ----------- |
-| Read 01        | [read01](https://hasnaa38.github.io/reading-notes/FILE_NAME_HERE)|
+| Pre-work Read  | [pre-work read](https://hasnaa38.github.io/reading-notes/c4-prework)|
+| Read 01        | [read01](https://hasnaa38.github.io/reading-notes/c4-class-01)|
 | Read 02        | [read02](https://hasnaa38.github.io/reading-notes/FILE_NAME_HERE)|
 
 ## Code 301 - Intermediate Software Development
