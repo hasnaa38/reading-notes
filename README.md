@@ -9,14 +9,14 @@ This page contains the links of all the required reading notes for ASAC-LTUC sof
 | Pre-work Read  | [pre-work read](https://hasnaa38.github.io/reading-notes/c4-prework)|
 | Read 01        | [read01](https://hasnaa38.github.io/reading-notes/c4-class-01)|
 | Read 02        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-02)|
-| Read 03        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-03)|
-| Read 04        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-04)|
-| Read 05        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-05)|
-| Read 06        | [read01](https://hasnaa38.github.io/reading-notes/c4-class-06)|
-| Read 07        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-07)|
-| Read 08        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-08)|
-| Read 09        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-09)|
-| Read 10        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-10)|
+| Read 03        | [read03](https://hasnaa38.github.io/reading-notes/c4-class-03)|
+| Read 04        | [read04](https://hasnaa38.github.io/reading-notes/c4-class-04)|
+| Read 05        | [read05](https://hasnaa38.github.io/reading-notes/c4-class-05)|
+| Read 06        | [read06](https://hasnaa38.github.io/reading-notes/c4-class-06)|
+| Read 07        | [read07](https://hasnaa38.github.io/reading-notes/c4-class-07)|
+| Read 08        | [read08](https://hasnaa38.github.io/reading-notes/c4-class-08)|
+| Read 09        | [read09](https://hasnaa38.github.io/reading-notes/c4-class-09)|
+| Read 10        | [read10](https://hasnaa38.github.io/reading-notes/c4-class-10)|
 
 ## Code 301 - Intermediate Software Development
 
