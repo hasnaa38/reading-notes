@@ -5,7 +5,7 @@
 * Name 3 real world use cases where you’d want to change the request with custom middleware
 Logger middleware that prints a simple log messages, a validation middleware that validates incoming cookies, a time stamper middleware that displays the timestamp of the HTTP request
 
-* True or false: The route handler is middleware? True
+* True or false: The route handler is middleware? False
 
 * In what ways can a middleware function end the process and send data to the browser?
 using next() or ending the request-response cycle by calling methods that implicitly call res.end such as res.end itself, res.send, res.render.
