@@ -17,6 +17,17 @@ This page contains the links of all the required reading notes for ASAC-LTUC sof
 | Read 08        | [read08](https://hasnaa38.github.io/reading-notes/c4-class-08)|
 | Read 09        | [read09](https://hasnaa38.github.io/reading-notes/c4-class-09)|
 | Read 10        | [read10](https://hasnaa38.github.io/reading-notes/c4-class-10)|
+| Read 11        | [read01](https://hasnaa38.github.io/reading-notes/c4-class-11)|
+| Read 12        | [read02](https://hasnaa38.github.io/reading-notes/c4-class-12)|
+| Read 13        | [read03](https://hasnaa38.github.io/reading-notes/c4-class-13)|
+| Read 14        | [read04](https://hasnaa38.github.io/reading-notes/c4-class-14)|
+| Read 15        | [read05](https://hasnaa38.github.io/reading-notes/c4-class-15)|
+| Read 16        | [read06](https://hasnaa38.github.io/reading-notes/c4-class-16)|
+| Read 17        | [read07](https://hasnaa38.github.io/reading-notes/c4-class-17)|
+| Read 18        | [read08](https://hasnaa38.github.io/reading-notes/c4-class-18)|
+| Read 19        | [read09](https://hasnaa38.github.io/reading-notes/c4-class-19)|
+| Read 20        | [read10](https://hasnaa38.github.io/reading-notes/c4-class-20)|
+
 
 ## Code 301 - Intermediate Software Development
 
