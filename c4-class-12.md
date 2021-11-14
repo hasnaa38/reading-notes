@@ -76,9 +76,9 @@ It is a way of establishing TCP connections. The Protocol Data Unit of the trans
 
 ![three-way handshake](https://media.geeksforgeeks.org/wp-content/uploads/TCP-connection-1.png)
 
-**Step 1 (SYN)**: In the first step, the client wants to establish a connection with a server, so it sends a segment with SYN(Synchronize Sequence Number) which informs the server that the client is likely to start communication and with what sequence number it starts segments with.
-**Step 2 (SYN + ACK)**: Server responds to the client request with SYN-ACK signal bits set. Acknowledgement(ACK) signifies the response of the segment it received and SYN signifies with what sequence number it is likely to start the segments with.
-**Step 3 (ACK)**: In the final part client acknowledges the response of the server and they both establish a reliable connection with which they will start the actual data transfer.
+* **Step 1 (SYN)**: In the first step, the client wants to establish a connection with a server, so it sends a segment with SYN(Synchronize Sequence Number) which informs the server that the client is likely to start communication and with what sequence number it starts segments with.
+* **Step 2 (SYN + ACK)**: Server responds to the client request with SYN-ACK signal bits set. Acknowledgement(ACK) signifies the response of the segment it received and SYN signifies with what sequence number it is likely to start the segments with.
+* **Step 3 (ACK)**: In the final part client acknowledges the response of the server and they both establish a reliable connection with which they will start the actual data transfer.
 
 Since it uses PAR, it will resend the data unit until it receives an acknowledgement. If the data unit received at the receiver’s end is damaged(It checks the data with checksum functionality of the transport layer that is used for Error Detection), the receiver discards the segment. So the sender has to resend the data unit for which positive acknowledgement is not received.
 
