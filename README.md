@@ -26,8 +26,21 @@ This page contains the links of all the required reading notes for ASAC-LTUC sof
 | Read 17        | [read17](https://hasnaa38.github.io/reading-notes/c4-class-17)|
 | Read 18        | [read18](https://hasnaa38.github.io/reading-notes/c4-class-18)|
 | Read 19        | [read19](https://hasnaa38.github.io/reading-notes/c4-class-19)|
-| Read 20        | [read20](https://hasnaa38.github.io/reading-notes/c4-class-20)|
-
+| Read 26        | [read26](https://hasnaa38.github.io/reading-notes/c4-class-26)|
+| Read 27        | [read27](https://hasnaa38.github.io/reading-notes/c4-class-27)|
+| Read 28        | [read28](https://hasnaa38.github.io/reading-notes/c4-class-28)|
+| Read 29        | [read29](https://hasnaa38.github.io/reading-notes/c4-class-29)|
+| Read 30        | [read30](https://hasnaa38.github.io/reading-notes/c4-class-30)|
+| Read 31        | [read31](https://hasnaa38.github.io/reading-notes/c4-class-31)|
+| Read 32        | [read32](https://hasnaa38.github.io/reading-notes/c4-class-32)|
+| Read 33        | [read33](https://hasnaa38.github.io/reading-notes/c4-class-33)|
+| Read 34        | [read34](https://hasnaa38.github.io/reading-notes/c4-class-34)|
+| Read 35        | [read35](https://hasnaa38.github.io/reading-notes/c4-class-35)|
+| Read 36        | [read36](https://hasnaa38.github.io/reading-notes/c4-class-36)|
+| Read 37        | [read37](https://hasnaa38.github.io/reading-notes/c4-class-37)|
+| Read 38        | [read38](https://hasnaa38.github.io/reading-notes/c4-class-38)|
+| Read 39        | [read39](https://hasnaa38.github.io/reading-notes/c4-class-39)|
+| Read 40        | [read40](https://hasnaa38.github.io/reading-notes/c4-class-40)|
 
 ## Code 301 - Intermediate Software Development
 
