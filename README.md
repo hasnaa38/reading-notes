@@ -30,7 +30,7 @@ This page contains the links of all the required reading notes for ASAC-LTUC sof
 | Read 27        | [read27](https://hasnaa38.github.io/reading-notes/c4-class-27)|
 | Read 28        | [read28](https://hasnaa38.github.io/reading-notes/c4-class-28)|
 | Read 29        | [read29](https://hasnaa38.github.io/reading-notes/c4-class-29)|
-| Read 30        | [read30](https://hasnaa38.github.io/reading-notes/c4-class-30)|
+| Read 30        | [read30](https://hasnaa38.github.io/reading-notes/c4-class-hashtables)|
 | Read 31        | [read31](https://hasnaa38.github.io/reading-notes/c4-class-31)|
 | Read 32        | [read32](https://hasnaa38.github.io/reading-notes/c4-class-32)|
 | Read 33        | [read33](https://hasnaa38.github.io/reading-notes/c4-class-33)|
