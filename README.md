@@ -35,7 +35,7 @@ This page contains the links of all the required reading notes for ASAC-LTUC sof
 | Read 32        | [read32](https://hasnaa38.github.io/reading-notes/c4-class-32)|
 | Read 33        | [read33](https://hasnaa38.github.io/reading-notes/c4-class-33)|
 | Read 34        | [read34](https://hasnaa38.github.io/reading-notes/c4-class-34)|
-| Read 35        | [read35](https://hasnaa38.github.io/reading-notes/c4-class-35)|
+| Read 35        | [read35](https://hasnaa38.github.io/reading-notes/c4-class-graphs)|
 | Read 36        | [read36](https://hasnaa38.github.io/reading-notes/c4-class-36)|
 | Read 37        | [read37](https://hasnaa38.github.io/reading-notes/c4-class-37)|
 | Read 38        | [read38](https://hasnaa38.github.io/reading-notes/c4-class-38)|
