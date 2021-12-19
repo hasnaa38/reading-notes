@@ -2,13 +2,16 @@
 
 ## Revision
 
-* 
+* How granular should your reducers be?
+
+* Pro or Con – multiple reducers can “fire” when a commonly named action is dispatched
+
+* Name a strategy for preventing the above
 
 ## Terms Documentation
 
-* ** **: 
-* ** **: 
-* ** **: 
-* ** **: 
 
-## Preview - 
+* **store**: 
+* **combined reducers**: 
+
+## Preview - Redux - Asynchronous Actions
