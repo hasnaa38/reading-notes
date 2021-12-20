@@ -10,6 +10,6 @@
 
 
 * **middleware**: 
-* **thunk**:  
+* **thunk**: the Redux's official version of async function middleware. The thunk middleware allows us to write functions that get dispatch and getState as arguments.
 
 ## Preview - Redux - Additional Topics
