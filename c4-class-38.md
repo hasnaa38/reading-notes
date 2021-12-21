@@ -16,7 +16,6 @@ Making a reducer for each component that will be affected by the dispatcher.
 
 ## Terms Documentation
 
-
 * **store**:  a plain JavaScript object that allows components to share state.
 * **combined reducers**: a Redux helper function that turns an object whose values are different reducing functions into a single reducing function you can pass to createStore.
 
