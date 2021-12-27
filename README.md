@@ -42,6 +42,7 @@ This page contains the links of all the required reading notes for ASAC-LTUC sof
 | Read 39        | [read39](https://hasnaa38.github.io/reading-notes/c4-class-39)|
 | Read 41        | [read40](https://hasnaa38.github.io/reading-notes/c4-class-41)|
 | Read 42        | [read40](https://hasnaa38.github.io/reading-notes/c4-class-42)|
+| Read 42        | [read40](https://hasnaa38.github.io/reading-notes/c4-class-43)|
 
 ## Code 301 - Intermediate Software Development
 
